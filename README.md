@@ -1,2 +1,2 @@
-# Week-1
+# Forest Fire Detection
 Forest Fire Detection using deep learning - AI
